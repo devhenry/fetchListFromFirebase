@@ -1,7 +1,7 @@
 
     
     var firebaseConfig = {
-    apiKey: "AIzaSyBv-XluD3Ba5tWl10yfjMJqXCZfyXivW6g",
+    apiKey: "keyhere",
     authDomain: "mycrud-5369e.firebaseapp.com",
     databaseURL: "https://mycrud-5369e-default-rtdb.firebaseio.com",
     projectId: "mycrud-5369e",
